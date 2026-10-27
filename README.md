@@ -4,7 +4,7 @@ An MIS reporting project for a medical billing (RCM) team. It takes a messy clai
 
 > **Note:** All data is synthetic (dummy) and created for practice. No real patient or company data is used. Report date: **15-Oct-2026**.
 
-![Healthcare MIS Dashboard](images/dashboard.png)
+dashboard.png
 
 ## Scenario
 
